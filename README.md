@@ -2,7 +2,7 @@
 #### I’m in my way to become Frontend Developer
 
 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning C# 
 - 📫 How to reach me: nachoconort@gmail.com 
 
 
