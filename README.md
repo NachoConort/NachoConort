@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Ignacio Conort
-#### I’m in my way to become Frontend Developer
 
 
 - 🌱 I’m currently learning C# 
