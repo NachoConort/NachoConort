@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ignacio Conort
 
 
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: nachoconort@gmail.com 
 
 
